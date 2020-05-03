@@ -1,5 +1,10 @@
 /*
+    Author: Aryan Yadav
     First Bad Version
+
+    Complexity: O(logn)
+    Algorithm: Binary Search
+    Difficulty: Easy
 */
 
 // The API isBadVersion is defined for you.
