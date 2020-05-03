@@ -1,7 +1,10 @@
 /*
     Author: Aryan Yadav
-
     Jewels and Stones
+
+    Complexity:O(n)
+    Algorithm: NA
+    Difficulty: Easy
 */
 using namespace std;
 class Solution
